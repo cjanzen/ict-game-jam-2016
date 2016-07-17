@@ -12,7 +12,7 @@ SpaceCatdets.MainMenu.prototype = {
     this.background.autoScroll(-20, 0);
 
     //Intro text & rewrote text render code based on http://phaser.io/examples/v2/demoscene/textwriter
-    var text = "The Major and Colonel sleep in a box on the farm \n unaware as storm clouds gather. \n After passing Area 51, an EF9 tornado sweeps them up, \n A UFO in unwrapping storage plastic \n slams into the box, startingly the cats awake. \n  \n You are the Major. Do you grab the trailing plastic or stay in the box?";
+    var text = "Major Tom and Colonel Fluffypants sleep in a box on a farm \n unaware of storm clouds gathering. \n An EF9 tornado sweeps them up and flings them into space. \n  \n Lost in space, you're their only hope to send them home!";
     var style = {font: "30px Verdana", fill: "#fff", align: "center"};
     var intro = this.game.add.text(this.game.width/2, this.game.height/2 - 100, text, style);
     intro.anchor.set(0.5, 0.5);
