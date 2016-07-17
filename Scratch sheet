@@ -1,0 +1,20 @@
+Scratch Sheet
+
+function preload() {
+  game.load.spritesheet('cat', 'cat_fighter_sprite1.png', 32, 32);
+}
+
+function create() {
+game.add.sprite(0, 0, 'space');
+asteroids = game.add.group();
+asteroids.enableBody = true;
+
+var asteroid = asteroids.create(0, game.world.height - 64, 'asteroid 1');
+
+var space = platforms
+var cat = game.add.sprite(300, 200, 'cat');
+var walk = cat.animations.add('walk');
+
+cat.animations.play('walk', 30, true);
+
+}
