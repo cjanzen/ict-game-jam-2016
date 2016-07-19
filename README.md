@@ -1,7 +1,7 @@
 #ICT Game Jam 2016 -- Space Catdets!#
 
-##Welcome to ICT Game Jam 2016 -- Space Catdets!##
-<p>**Theme:** Lost in space, so what could be better than cats lost in space!</p>
+##Theme## 
+Lost in space, so what could be better than cats lost in space!
 
 ###Goals###
 - [x] Set up Phaser and dev environment 
@@ -19,10 +19,7 @@
 In progress
 
 ###Authors and Contributors###
-Catherine Janzen (@cjanzen) created this game, based on several tutorials, including http://tutorialzine.com/2015/06/making-your-first-html5-game-with-phaser/
-https://gamedevacademy.org/html5-phaser-tutorial-spacehipster-a-space-exploration-game/
-
-Free assets from:
-http://opengameart.org http://kenney.nl/assets/alien-ufo-pack
+This game is based on several tutorials, including http://tutorialzine.com/2015/06/making-your-first-html5-game-with-phaser/
+https://gamedevacademy.org/html5-phaser-tutorial-spacehipster-a-space-exploration-game/ and assets from http://opengameart.org http://kenney.nl/assets/alien-ufo-pack.
 
 Copious help from felixnemis! Thanks!!!!
