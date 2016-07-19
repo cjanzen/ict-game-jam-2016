@@ -1,6 +1,6 @@
 #ICT Game Jam 2016 -- Space Catdets!#
 
-##Theme## 
+###Theme###
 Lost in space, so what could be better than cats lost in space!
 
 ###Goals###
